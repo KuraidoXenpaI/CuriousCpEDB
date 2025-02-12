@@ -2,6 +2,8 @@
     "aAng": {
         "password": "12345",
         "email": "aAng@mcm.edu.ph",
+        "firstname":"Allen",
+        "lastname":"Ang",
 
         "progress": {
 
@@ -11,6 +13,8 @@
     "jcDagaang": {
         "password": "12345",
         "email": "jcDagaang@mcm.edu.ph",
+        "firstname": "Jon Clyde",
+        "lastname": "Dagaang",
 
         "progress": {
 
@@ -20,6 +24,8 @@
     "cLee": {
         "password": "12345",
         "email": "cLee@mcm.edu.ph",
+        "firstname": "Calvin",
+        "lastname": "Lee",
 
         "progress": {
 
